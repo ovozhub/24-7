@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 # API kalitlari
 api_id = 25351311
 api_hash = "7b854af9996797aa9ca67b42f1cd5cbe"
-bot_token = "8350150569:AAEfax1UQn1AnpWrDdwFo0c7zCzDklkcbJk"
+bot_token = "8350150569:AAHll2KNGBJa8hwku6ZjzP-sz_hsoolpdMo"
 
 # Parol (foydalanuvchilar kirish uchun)
 ACCESS_PASSWORD = "dnx"
@@ -255,3 +255,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
